@@ -8,7 +8,7 @@ pkg install python termux-api -y
 pip install pyTelegramBotAPI requests
 
 # মূল ক্লায়েন্ট ফাইল ডাউনলোড
-curl -O https://raw.githubusercontent.com/YOUR_USER_NAME/YOUR_REPO/main/client.py
+curl -O https://raw.githubusercontent.com/R8rAIHAN/R8rAIHAN_Mobile_Cam_bot/main/client.py
 
 echo "✅ Setup Complete! Connecting to Bot..."
 
